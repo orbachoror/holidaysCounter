@@ -2,6 +2,8 @@
 
 A React countdown app for religious holidays (Jewish, Muslim, Christian) in 2025.
 
+![Holidays Counter App](./image.png)
+
 ## How to Run
 
 ```bash
