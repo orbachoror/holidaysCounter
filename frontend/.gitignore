@@ -7,6 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Ignore ansible group_vars folder
+ansible/group_vars/
+
 node_modules
 dist
 dist-ssr

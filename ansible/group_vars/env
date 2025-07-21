@@ -1,0 +1,17 @@
+server_name: inon_test
+env: prod
+
+vpc_name: inon-vpc
+network: 10.0.0.0/16
+subnet_cidr: 10.0.0.0/24
+env_name: prod
+aws_region: eu-central-1
+subnet: eu-central-1a
+
+keypair: holidayFinder
+
+aws_ubuntu_ami: ami-02003f9f0fde924ea
+Server_type: t2.micro
+server_volume_size: 10
+
+repo:
